@@ -85,11 +85,14 @@ p {
   transform: rotate(0deg) skew(0deg) translate(0, -10px);
 }
 .social-menu ul li:nth-child(1) a:hover {
-  background-color: #4078c0;
+  background-color: black;
 }
 .social-menu ul li:nth-child(2) a:hover {
   background-color: #e4405f;
 }
 .social-menu ul li:nth-child(3) a:hover {
   background-color: #db7084;
+}
+.social-menu ul li:nth-child(4) a:hover {
+  background-color: #2466BC;
 }
